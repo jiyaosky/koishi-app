@@ -7,9 +7,10 @@ plugins:
     rate-limit: null
     suggest: null
     locales: null
-    commands: null
+    commands:lbgnt5: {}
     ~admin: null
     ~bind: null
+    $collapsed: true
   group:console:
     console:
       open: true
@@ -46,3 +47,7 @@ plugins:
   echo:dr9dbc: {}
   chess:4di0q3: {}
   puppeteer:b7teuz: {}
+  nonsense:udqiyq: {}
+  ~repeater:8e8ah1: {}
+  respondent:73t46c: {}
+  crazy-thursday:62g0v0: {}

@@ -16,6 +16,7 @@ app.plugin('adapter-onebot', {
 
 // 安装 echo 插件
 app.plugin('echo')
+app.plugin('nonsense')
 app.plugin(ping)
 // 启动应用
 app.start()
